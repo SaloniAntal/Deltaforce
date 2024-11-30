@@ -1,0 +1,37 @@
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive configuration files
+*.env
+*.tfstate
+*.tfstate.backup
+.terraform/
+credentials/
+
+# Ignore log files
+*.log
+
+# Ignore Python files (if applicable)
+__pycache__/
+*.py[cod]
+
+# Ignore Jenkins files
+*.jenkins/
+
+# Ignore Terraform lock files
+.terraform.lock.hcl
+
+# Ignore build artifacts
+build/
+dist/
+*.class
+*.jar
+
+# Ignore temporary files
+*.tmp
+*.swp
