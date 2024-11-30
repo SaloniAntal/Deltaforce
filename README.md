@@ -5,14 +5,20 @@
 This repository contains the code and configuration files for a Jenkins pipeline assignment. The purpose of this assignment is to demonstrate the use of Jenkins to automate building, testing, and deploying a Java application with SonarQube integration for static code analysis.
 
 ## Files in This Repository
-- **Assign.java**: A simple Java program that prints "Hello, Jenkins!" to the console.
-- **Jenkinsfile**: A Jenkins pipeline script for automating the build, test, and deployment process.
 
 ## Getting Started
 ### Prerequisites
-- **Java JDK 17**: Ensure Java Development Kit version 17 is installed.
-- **Jenkins**: Install and configure Jenkins to work with this repository.
-- **SonarQube**: Set up SonarQube and configure it for static code analysis.
+# DevSecOps Project
+
+This repository contains the files and configurations for the DevSecOps assignment.
+
+## Tools Used
+- **Jenkins**: CI/CD pipeline.
+- **SonarQube**: Security testing.
+- **Terraform**: Infrastructure as Code.
+- **Prometheus**: Monitoring and alerting.
+
+## Project Structure
 
 ### Steps to Run Locally
 1. Clone the repository:
